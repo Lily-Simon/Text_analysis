@@ -8,3 +8,4 @@ frequency of use letters.
 
 ![version](https://img.shields.io/github/pipenv/locked/python-version/Lily-Simon/Quadratic_equation?color=green)
 ![issues](https://img.shields.io/github/issues/Lily-Simon/Quadratic_equation?color=green)
+![size](https://img.shields.io/github/repo-size/Lily-Simon/Text_parsing?color=yellowgreen)
